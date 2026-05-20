@@ -415,4 +415,4 @@ push (frontend/main) ──▶ workflow ──▶ rsync ──▶ TG1_UDF_enferm
 **Secret necessário** (em cada repositório de origem):  
 `PAT_TOKEN` — Personal Access Token com escopo `repo`
 
-Para o guia completo de configuração da sincronização, consulte [`docs/SYNC_SYSTEM_README.md`](docs/SYNC_SYSTEM_README.md).
+Para o guia completo de configuração da sincronização, consulte [`docs/SYNC_SYSTEM_README.md`](docs/SYNC_SYSTEM_README.md). 
