@@ -37,12 +37,12 @@
 
 O **EstagioCheck** é uma plataforma web desenvolvida para gerenciar e controlar o estágio curricular dos estudantes de Enfermagem da UDF. O sistema substitui o controle manual em papel, oferecendo:
 
-- Registro de presença com **validação por geolocalização**
-- Acompanhamento formativo pelos preceptores
-- Gestão de rodízios, grupos e locais de estágio
-- Dashboard com métricas e histórico completo
-- Relatórios exportáveis
-- Notificações por e-mail
+- Registro de presença com **validação por geolocalização**;
+- Acompanhamento formativo pelos preceptores;
+- Gestão de rodízios, grupos e locais de estágio;
+- Dashboard com métricas e histórico completo;
+- Relatórios exportáveis;
+- Notificações por e-mail;
 
 ---
 
